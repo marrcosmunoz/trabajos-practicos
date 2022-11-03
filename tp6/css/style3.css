@@ -1,0 +1,20 @@
+.heder{
+    display: grid;
+    grid-template-columns: 300px 150px;
+    grid-template-rows: 150px;
+}
+
+.tp{
+    text-align: center;
+    font-style: Liberation Serif;
+    font-size: 20;
+}
+
+.rta{
+    font-style: Times New Roman;
+    font-size: 12;
+}
+
+.footer{
+    text-align: center;
+}
